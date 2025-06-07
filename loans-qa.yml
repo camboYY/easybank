@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to QA Loans MicroService"
+  message: "Welcome to Quality Assurance Loans MicroService"
   contactDetails:
     name: "Yousyoeun"
     email: "yous@yoeun.com"
