@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 accounts:
-  message: "Welcome to Quality Assurance Accounts MicroService"
+  message: "Welcome to QA Accounts MicroService"
   contactDetails:
     name: "Yousyoeun"
     email: "yous@yoeun.com"
