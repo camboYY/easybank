@@ -1,6 +1,6 @@
 build:
   version: "1.0"
-accounts:
+loans:
   message: "Welcome to QA Loans MicroService"
   contactDetails:
     name: "Yousyoeun"
